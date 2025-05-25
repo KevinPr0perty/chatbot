@@ -9,7 +9,7 @@ import tempfile
 import os
 from supabase import create_client, Client
 
-st.set_page_config(page_title="AI Shirt Tool", layout="wide")
+st.set_page_config(page_title="AI Shirt Tool 1-100", layout="wide")
 st.title("🛠️ AI Shirt Tools")
 
 # Mode selection
